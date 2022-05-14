@@ -1,6 +1,6 @@
 #ifndef VERSION_H_INCLUDED
 #define VERSION_H_INCLUDED
 
-#define VERSION "CommandManager专版"
+#define VERSION "0.7.2"
 
 #endif // VERSION_H_INCLUDED
